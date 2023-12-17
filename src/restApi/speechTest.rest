@@ -1,0 +1,5 @@
+POST https://texttospeech.googleapis.com/v1beta1/text:synthesize HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer ya29.a0AfB_byAT3ngaiZV75aHxEeLjvQMFimmSi1kREZZp9HDHenmL6R1QSQYHB65zeBWmeXHEFFhPqZ9h3zdX89LgkanLOJkib41ZsfF1G5fFt_eNGWjY7WppunbWuqvdpqHzBbK-U8_PQIZWuBo9X-LsKFhpDSW7BKQuLwaCgYKATcSARESFQHGX2Mi3OEcu0Th0UrVSY0z5FnYAQ0169
+
+< ./ssml-test-1.json

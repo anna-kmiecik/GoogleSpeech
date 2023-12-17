@@ -1,0 +1,5 @@
+POST https://speech.googleapis.com/v1/speech:recognize HTTP/1.1
+Content-Type: application/xml
+Authorization: Bearer ya29.a0AfB_byAx_iSWWLV_ogzZ6cVY9fKP-QtBhp0l2nLE780t2bB1Excr_JgA1Y08og_VkNEGLtD5xBasJOchL8tq9eJQxhgpB_V7dbkzTal8Zps5YUkWtZPklkj_7B5TEOcwJjvyiHFft0T4JZbYuSLNbijzaPAyb77YeAaCgYKAToSARESFQHGX2MiBC-8321E0lL6rX3PR6gSNw0169
+
+< ./sync-request.json
